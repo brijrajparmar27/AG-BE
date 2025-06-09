@@ -81,6 +81,11 @@ class PolicyController {
               // For other fields, use direct equality
               query[fieldName] = filter.filterValue[0];
             }
+          } else if (filter.filterAction === "contains") {
+            // Handle contains filter action for MBU_handler and producing_UW
+            if (fieldName === "MBU_handler" || fieldName === "producing_UW") {
+              query[fieldName] = { $regex: filter.filterValue, $options: "i" };
+            }
           }
         });
       }
