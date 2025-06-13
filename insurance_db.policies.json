@@ -1,0 +1,1704 @@
+[{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e4b"
+  },
+  "status": "ISSUED",
+  "named_insured": "David Walker",
+  "MNPID": "866e28b1-2600-4e5c-a32a-09f31cc7a9e4",
+  "line_of_business": [
+    "GL",
+    "Crop",
+    "Energy"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e4c"
+  },
+  "status": "CLOSED",
+  "named_insured": "Lisa Wilson",
+  "MNPID": "4fed170b-c4d1-4940-9035-0e330d40360c",
+  "line_of_business": [
+    "Crop"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e4d"
+  },
+  "status": "CLOSED",
+  "named_insured": "David Wilson",
+  "MNPID": "3605629e-6f05-4e3f-8fe0-7d6cf8158bce",
+  "line_of_business": [
+    "Aqua",
+    "D&O",
+    "Energy"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e4e"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Robert Taylor",
+  "MNPID": "38aca47e-de6f-4702-a712-2b5883fbea53",
+  "line_of_business": [
+    "D&O"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e4f"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Emily Brown",
+  "MNPID": "77635a4f-5399-4bb9-870c-d13bfede1b37",
+  "line_of_business": [
+    "D&O",
+    "Aqua",
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e50"
+  },
+  "status": "ISSUED",
+  "named_insured": "Robert Walker",
+  "MNPID": "b28b468d-27d4-4e01-9a8f-621130a5cd91",
+  "line_of_business": [
+    "Crop"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e51"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Emma Taylor",
+  "MNPID": "bccf3802-4a1c-45bc-9150-c4c26d74a68c",
+  "line_of_business": [
+    "Energy",
+    "Aqua"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e52"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "Sarah Walker",
+  "MNPID": "18451249-f0bc-4e28-8331-bb5e3ed9e9e8",
+  "line_of_business": [
+    "GL"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e53"
+  },
+  "status": "CLOSED",
+  "named_insured": "James Smith",
+  "MNPID": "7c0c6906-883f-4525-9198-4efb3fcc7910",
+  "line_of_business": [
+    "Aqua",
+    "Crop"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e54"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Emma Clark",
+  "MNPID": "94991043-68fa-4348-81b3-5ee8cac75493",
+  "line_of_business": [
+    "Cyber",
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e55"
+  },
+  "status": "QUOTED",
+  "named_insured": "David Lewis",
+  "MNPID": "a3ef2832-f24a-434e-9bbc-855faa966a5a",
+  "line_of_business": [
+    "Energy"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e56"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "John Clark",
+  "MNPID": "f403a08d-e827-43c7-a5ec-42c811ad7adc",
+  "line_of_business": [
+    "Cyber",
+    "D&O"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e57"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Sarah Walker",
+  "MNPID": "08bd75fb-0007-4ff0-a054-e4b27c922392",
+  "line_of_business": [
+    "Crop",
+    "Cyber",
+    "D&O"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e58"
+  },
+  "status": "ISSUED",
+  "named_insured": "Lisa Davis",
+  "MNPID": "e17a326c-cc55-48e1-b56d-53bcfc92704b",
+  "line_of_business": [
+    "Crop",
+    "Cyber",
+    "Energy"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e59"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "James Walker",
+  "MNPID": "2f19eecc-564b-4b9d-887c-8506e247367d",
+  "line_of_business": [
+    "Energy",
+    "Crop"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e5a"
+  },
+  "status": "QUOTED",
+  "named_insured": "Sarah Davis",
+  "MNPID": "b065b0ab-1b89-4633-b342-5df459cacf40",
+  "line_of_business": [
+    "Cyber",
+    "Crop",
+    "Energy"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e5b"
+  },
+  "status": "ISSUED",
+  "named_insured": "Robert Davis",
+  "MNPID": "f42804a6-03fa-45de-a378-bbed3c15bc3d",
+  "line_of_business": [
+    "Cyber"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e5c"
+  },
+  "status": "QUOTED",
+  "named_insured": "Michael Johnson",
+  "MNPID": "2d2a0b19-0eb0-4c83-9bf2-14bb793aca1b",
+  "line_of_business": [
+    "Aqua",
+    "Cyber"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e5d"
+  },
+  "status": "ISSUED",
+  "named_insured": "Sarah Smith",
+  "MNPID": "3520fb31-9a7b-47dc-89fc-713b33ed4f59",
+  "line_of_business": [
+    "GL",
+    "Energy"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e5e"
+  },
+  "status": "BOUND",
+  "named_insured": "Sarah Taylor",
+  "MNPID": "ac039c57-2737-4a8e-8982-9ee4b7a681e2",
+  "line_of_business": [
+    "GL",
+    "Cyber"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e5f"
+  },
+  "status": "CLOSED",
+  "named_insured": "Emma Clark",
+  "MNPID": "a862807b-8a8d-4a53-b0fc-7f81e0e0462e",
+  "line_of_business": [
+    "GL",
+    "Cyber",
+    "D&O"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e60"
+  },
+  "status": "QUOTED",
+  "named_insured": "Emily Taylor",
+  "MNPID": "11bbe5e9-97e3-4e4b-9ff5-1f1ec3eea18c",
+  "line_of_business": [
+    "Aqua"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e61"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "Jane Hall",
+  "MNPID": "290606ef-849c-47f1-b5e8-2084165622e3",
+  "line_of_business": [
+    "Aqua",
+    "GL",
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e62"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "David Hall",
+  "MNPID": "38946a86-a065-4471-93dd-dbd51224401e",
+  "line_of_business": [
+    "D&O",
+    "Cyber"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e63"
+  },
+  "status": "QUOTED",
+  "named_insured": "Emma Wilson",
+  "MNPID": "7d5bc2d0-a173-4069-9c37-3be72e90d435",
+  "line_of_business": [
+    "GL",
+    "Energy",
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e64"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "Lisa Johnson",
+  "MNPID": "453bbf04-b394-4267-a001-c6d19de06f13",
+  "line_of_business": [
+    "Crop",
+    "D&O"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e65"
+  },
+  "status": "QUOTED",
+  "named_insured": "Lisa Lewis",
+  "MNPID": "8d0f1288-04d1-4200-8646-278cd3c823c5",
+  "line_of_business": [
+    "GL"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e66"
+  },
+  "status": "ISSUED",
+  "named_insured": "James Clark",
+  "MNPID": "15530e66-c4ec-482d-9b67-e280d9c45812",
+  "line_of_business": [
+    "Aqua"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e67"
+  },
+  "status": "CLOSED",
+  "named_insured": "Robert Clark",
+  "MNPID": "0ffdd63a-1b43-4732-9410-e46d4f55d3ff",
+  "line_of_business": [
+    "Aqua",
+    "Energy",
+    "GL"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e68"
+  },
+  "status": "BOUND",
+  "named_insured": "James Smith",
+  "MNPID": "69c0f50f-5b86-44df-8a40-b59703ad1cf6",
+  "line_of_business": [
+    "Crop",
+    "GL"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e69"
+  },
+  "status": "ISSUED",
+  "named_insured": "John Brown",
+  "MNPID": "492e0a13-ce02-4ac3-bc43-cf83fa471227",
+  "line_of_business": [
+    "Energy",
+    "Aqua"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e6a"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Emma Lewis",
+  "MNPID": "15c39cf5-8aa5-4c5f-bbbe-43a593afc351",
+  "line_of_business": [
+    "Cyber",
+    "D&O"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e6b"
+  },
+  "status": "CLOSED",
+  "named_insured": "James Walker",
+  "MNPID": "d28fd150-5fc2-40d4-bf14-e0cb9985a226",
+  "line_of_business": [
+    "Aqua",
+    "Energy",
+    "Crop"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e6c"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Jane Clark",
+  "MNPID": "9937cb04-95a6-44d8-9ba8-4a833ea46aef",
+  "line_of_business": [
+    "Crop"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e6d"
+  },
+  "status": "CLOSED",
+  "named_insured": "John Lewis",
+  "MNPID": "9258d461-547a-4ec3-925f-aa9858db4300",
+  "line_of_business": [
+    "Cyber",
+    "Energy"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e6e"
+  },
+  "status": "ISSUED",
+  "named_insured": "John Walker",
+  "MNPID": "89bac786-ccf8-43b8-afa3-38f4ae740d81",
+  "line_of_business": [
+    "Aqua",
+    "GL",
+    "D&O"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e6f"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Emily Smith",
+  "MNPID": "dfb421c1-6ec3-42a6-a98c-2cbf932555ca",
+  "line_of_business": [
+    "Aqua",
+    "Crop",
+    "GL"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e70"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Robert Hall",
+  "MNPID": "13e0cf43-be2e-4e85-80ea-cf3bfe125af8",
+  "line_of_business": [
+    "D&O",
+    "Crop",
+    "Aqua"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e71"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "David Johnson",
+  "MNPID": "0187c19c-e90e-43c3-9cbd-add3a79f3de4",
+  "line_of_business": [
+    "D&O"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e72"
+  },
+  "status": "ISSUED",
+  "named_insured": "John Davis",
+  "MNPID": "21164e18-1957-4ba3-b8f5-ad3b25876086",
+  "line_of_business": [
+    "Cyber",
+    "Crop"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e73"
+  },
+  "status": "CLOSED",
+  "named_insured": "James Walker",
+  "MNPID": "7f72e203-b06d-4ba1-b1ef-12c6ae9b2949",
+  "line_of_business": [
+    "Cyber",
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e74"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Lisa Davis",
+  "MNPID": "af9a7b89-1577-48cb-a279-4a46cef8bee4",
+  "line_of_business": [
+    "Crop",
+    "GL",
+    "Aqua"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e75"
+  },
+  "status": "BOUND",
+  "named_insured": "Sarah Walker",
+  "MNPID": "6c11454b-2732-4281-bfb6-13dcf2ad406e",
+  "line_of_business": [
+    "D&O",
+    "Aqua"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e76"
+  },
+  "status": "ISSUED",
+  "named_insured": "Emma Walker",
+  "MNPID": "838fcab3-1413-45c6-a039-bb753493e9a0",
+  "line_of_business": [
+    "D&O",
+    "Aqua",
+    "GL"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e77"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "John Walker",
+  "MNPID": "0af8551e-afc8-4fb2-a841-66cc71a7eb35",
+  "line_of_business": [
+    "D&O",
+    "Cyber",
+    "GL"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e78"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Emma Davis",
+  "MNPID": "9e4c7218-e7e3-4c56-832b-416646d85de7",
+  "line_of_business": [
+    "Cyber",
+    "Crop",
+    "D&O"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e79"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Jane Taylor",
+  "MNPID": "b877796c-c847-4e0e-ac2f-552b4783812c",
+  "line_of_business": [
+    "Energy",
+    "D&O"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e7a"
+  },
+  "status": "CLOSED",
+  "named_insured": "Sarah Johnson",
+  "MNPID": "7d87f21b-a20b-4018-adda-4561ba11deb1",
+  "line_of_business": [
+    "Energy"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e7b"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Jane Taylor",
+  "MNPID": "60fffedd-773c-435c-87fa-96bc98925d26",
+  "line_of_business": [
+    "Aqua",
+    "Crop",
+    "Cyber"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e7c"
+  },
+  "status": "ISSUED",
+  "named_insured": "Robert Davis",
+  "MNPID": "ca19c909-ed8c-49cc-86be-2e75b448e73b",
+  "line_of_business": [
+    "Crop",
+    "Aqua"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e7d"
+  },
+  "status": "BOUND",
+  "named_insured": "Emma Brown",
+  "MNPID": "c0b1a1f3-b5cd-4bde-9dfd-a7b3f4acede8",
+  "line_of_business": [
+    "Crop"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e7e"
+  },
+  "status": "CLOSED",
+  "named_insured": "James Smith",
+  "MNPID": "60a805ba-782c-4551-a087-4d7aaddf6e0f",
+  "line_of_business": [
+    "Crop",
+    "GL",
+    "Cyber"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e7f"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Sarah Johnson",
+  "MNPID": "e4a9c459-6564-46d9-9741-dd4e999bb4fc",
+  "line_of_business": [
+    "Aqua",
+    "Crop",
+    "Energy"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e80"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Michael Wilson",
+  "MNPID": "0f12d423-a381-4650-ba20-0e09ef20afd4",
+  "line_of_business": [
+    "Cyber"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e81"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "James Smith",
+  "MNPID": "337bbc9b-e654-42d0-a77b-ff56d2e92edb",
+  "line_of_business": [
+    "Cyber"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e82"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "Jane Smith",
+  "MNPID": "f103c5b6-5612-4048-a409-5d3037dab13f",
+  "line_of_business": [
+    "Cyber",
+    "GL",
+    "Energy"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e83"
+  },
+  "status": "CLOSED",
+  "named_insured": "Sarah Davis",
+  "MNPID": "480e8c58-dd8c-4efa-9c74-8a4c02891a93",
+  "line_of_business": [
+    "Aqua",
+    "Crop"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e84"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Jane Lewis",
+  "MNPID": "d17921de-c397-41ee-918b-e14b952629ee",
+  "line_of_business": [
+    "Cyber",
+    "Aqua"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e85"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Jane Smith",
+  "MNPID": "243c1da4-ac13-4e90-a3b4-4fb084b77656",
+  "line_of_business": [
+    "Cyber"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e86"
+  },
+  "status": "CLOSED",
+  "named_insured": "David Lewis",
+  "MNPID": "36fd3906-0f18-4c85-990b-890e32fa4057",
+  "line_of_business": [
+    "GL",
+    "Cyber"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e87"
+  },
+  "status": "QUOTED",
+  "named_insured": "David Davis",
+  "MNPID": "4a3f9e79-5589-4b3c-9ebd-b2c99ed02d4b",
+  "line_of_business": [
+    "Crop"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e88"
+  },
+  "status": "ISSUED",
+  "named_insured": "Michael Lewis",
+  "MNPID": "b0796d55-370f-424a-b556-5d151a368796",
+  "line_of_business": [
+    "Aqua",
+    "Cyber"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e89"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Jane Hall",
+  "MNPID": "89e28f0e-ae4f-440a-ba9f-27043488ac9a",
+  "line_of_business": [
+    "D&O",
+    "GL"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e8a"
+  },
+  "status": "CLOSED",
+  "named_insured": "John Taylor",
+  "MNPID": "58c6bde9-2241-439d-9c22-c51f16814c2a",
+  "line_of_business": [
+    "D&O"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e8b"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Sarah Taylor",
+  "MNPID": "c07479bb-64f5-4805-97f0-0f0fd7260765",
+  "line_of_business": [
+    "Aqua"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e8c"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Emma Taylor",
+  "MNPID": "21e1772f-a7ce-47ce-aa98-651f51c4e283",
+  "line_of_business": [
+    "D&O",
+    "Energy",
+    "GL"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e8d"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "David Wilson",
+  "MNPID": "99d1a8b3-c814-4984-b442-985e13fc51a3",
+  "line_of_business": [
+    "Aqua",
+    "GL",
+    "Energy"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e8e"
+  },
+  "status": "BOUND",
+  "named_insured": "Lisa Clark",
+  "MNPID": "4c502982-00ec-4108-b53e-7df37452f9c4",
+  "line_of_business": [
+    "GL"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e8f"
+  },
+  "status": "QUOTED",
+  "named_insured": "Michael Johnson",
+  "MNPID": "d390ac67-84a3-4df9-8815-7a8008b2662a",
+  "line_of_business": [
+    "GL"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e90"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Robert Smith",
+  "MNPID": "9f8c5ce9-e35b-45cd-80bb-4139e225ac3a",
+  "line_of_business": [
+    "GL",
+    "Cyber"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e91"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "David Clark",
+  "MNPID": "21aa7534-75e4-4a2e-8f45-c0940a6d8f73",
+  "line_of_business": [
+    "GL",
+    "D&O",
+    "Energy"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e92"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "David Walker",
+  "MNPID": "8eba7a5c-6f62-467c-bda6-4e9ab8592d74",
+  "line_of_business": [
+    "Energy"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e93"
+  },
+  "status": "CLOSED",
+  "named_insured": "Sarah Johnson",
+  "MNPID": "0351b96a-4031-4f3c-8f42-9115b09dfcfa",
+  "line_of_business": [
+    "Aqua"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e94"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Robert Brown",
+  "MNPID": "bd5e10b6-b5c4-420d-9e22-e2490e173650",
+  "line_of_business": [
+    "Aqua",
+    "D&O"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e95"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "James Johnson",
+  "MNPID": "bba4c354-007b-4ed8-baee-ebd604fb8a3e",
+  "line_of_business": [
+    "Aqua",
+    "Crop"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e96"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "James Wilson",
+  "MNPID": "daea1abc-dc19-4f9f-92a6-01857811ae2f",
+  "line_of_business": [
+    "Cyber",
+    "GL",
+    "Energy"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e97"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "John Brown",
+  "MNPID": "29cb21e9-ad7b-4515-b0d6-7e0965d86f75",
+  "line_of_business": [
+    "Cyber",
+    "GL",
+    "Energy"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e98"
+  },
+  "status": "BOUND",
+  "named_insured": "Sarah Hall",
+  "MNPID": "d037e482-6203-416a-8adb-b43f4205411b",
+  "line_of_business": [
+    "Aqua"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e99"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "Lisa Johnson",
+  "MNPID": "86d993fb-492b-47b7-a642-dd198078c2ad",
+  "line_of_business": [
+    "D&O",
+    "Cyber"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e9a"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Sarah Johnson",
+  "MNPID": "92aca724-478a-4229-90da-4f55c0be90cc",
+  "line_of_business": [
+    "Crop",
+    "Energy"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e9b"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Sarah Johnson",
+  "MNPID": "d6122a34-d8ce-4f5c-9a72-7bc30c8f7b85",
+  "line_of_business": [
+    "Aqua",
+    "Energy",
+    "Crop"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e9c"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "Emily Smith",
+  "MNPID": "d8b84054-c9c0-4df3-8861-85c33add36f1",
+  "line_of_business": [
+    "Aqua"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e9d"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "Emily Johnson",
+  "MNPID": "bb3f23db-0fe9-4c0d-92d8-adf275ba8a86",
+  "line_of_business": [
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e9e"
+  },
+  "status": "CLOSED",
+  "named_insured": "Sarah Hall",
+  "MNPID": "9414dc06-b603-4214-be95-f8757ad77374",
+  "line_of_business": [
+    "Cyber",
+    "Crop",
+    "Energy"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9e9f"
+  },
+  "status": "QUOTED",
+  "named_insured": "Emily Hall",
+  "MNPID": "47250fa4-430c-4bf8-9470-297e62902590",
+  "line_of_business": [
+    "Crop",
+    "Aqua"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea0"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Michael Wilson",
+  "MNPID": "0148db68-b3c2-4fef-a4db-94e2351de9f2",
+  "line_of_business": [
+    "Energy"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea1"
+  },
+  "status": "PENDING_QUOTE",
+  "named_insured": "Jane Clark",
+  "MNPID": "24672c38-5d39-4aca-95b2-4823b1d03da3",
+  "line_of_business": [
+    "Aqua",
+    "Energy"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea2"
+  },
+  "status": "QUOTED",
+  "named_insured": "Emma Walker",
+  "MNPID": "537aca86-a439-42cd-b1bb-d23b015f1b69",
+  "line_of_business": [
+    "Crop",
+    "Cyber",
+    "D&O"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Tom Baker",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea3"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "David Lewis",
+  "MNPID": "532161e3-f5cd-41ba-a536-4c80955ec7a3",
+  "line_of_business": [
+    "Aqua",
+    "Energy"
+  ],
+  "MBU_handler": "Bob Evans",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea4"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "David Taylor",
+  "MNPID": "22ab1241-e274-46ba-be4b-e76ec8113c27",
+  "line_of_business": [
+    "Aqua",
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea5"
+  },
+  "status": "APPROVAL_PENDING",
+  "named_insured": "David Hall",
+  "MNPID": "eabe3c8f-4ae6-4d45-985c-44aff2b66e77",
+  "line_of_business": [
+    "Energy",
+    "GL",
+    "Crop"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Mark Stone",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea6"
+  },
+  "status": "BOUND",
+  "named_insured": "Michael Hall",
+  "MNPID": "7f8e5d7b-35b0-4877-90ab-aea5e0ed0ab2",
+  "line_of_business": [
+    "Crop",
+    "Cyber",
+    "Aqua"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea7"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "David Johnson",
+  "MNPID": "7389c9d0-3060-4f69-9cf5-005dffbd1ff9",
+  "line_of_business": [
+    "Aqua",
+    "Energy",
+    "GL"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea8"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Emily Wilson",
+  "MNPID": "ea6ce695-c959-404a-ae24-fdef31cd88c9",
+  "line_of_business": [
+    "Crop",
+    "Aqua"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ea9"
+  },
+  "status": "ISSUED",
+  "named_insured": "Michael Taylor",
+  "MNPID": "35c33949-2284-4613-96bb-fba0ed756127",
+  "line_of_business": [
+    "GL",
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Susan White",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9eaa"
+  },
+  "status": "CLOSED",
+  "named_insured": "Sarah Johnson",
+  "MNPID": "d38fa97f-9e9f-45e7-9473-809a12c44769",
+  "line_of_business": [
+    "GL",
+    "Energy",
+    "D&O"
+  ],
+  "MBU_handler": "Daniel Lee",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9eab"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "David Smith",
+  "MNPID": "7f683a8e-e355-4ca8-b81c-c3c7465b4e50",
+  "line_of_business": [
+    "Cyber"
+  ],
+  "MBU_handler": "Alice Carter",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9eac"
+  },
+  "status": "PENDING_RENEWAL",
+  "named_insured": "Emily Clark",
+  "MNPID": "7879084b-456b-4847-99c5-a44f2db7b70c",
+  "line_of_business": [
+    "Cyber"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Greg Adams",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9ead"
+  },
+  "status": "QUOTED",
+  "named_insured": "Emma Hall",
+  "MNPID": "eef769f2-1004-4519-a0e8-307da7749830",
+  "line_of_business": [
+    "Cyber",
+    "Crop"
+  ],
+  "MBU_handler": "Clara Hughes",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843ead455c5a77c8a2b9eae"
+  },
+  "status": "IN_DESIGN",
+  "named_insured": "Emma Taylor",
+  "MNPID": "0b6e87d5-f0a6-4800-8f6b-42c7d5f513b9",
+  "line_of_business": [
+    "Aqua"
+  ],
+  "MBU_handler": "Eve Morgan",
+  "producing_UW": "Laura King",
+  "created_at": {
+    "$date": "2025-06-07T07:31:32.942Z"
+  }
+}]
